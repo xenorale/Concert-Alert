@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "query": "YASMI",
+    "name": "Yasmi",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/c16f99cc12c91e48abf7bb969025c258/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 106670252,
+    "link": "https://www.deezer.com/artist/106670252",
+    "fans": 188
+  },
+  {
+    "query": "f0lk",
+    "name": "f0lk",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/4ac43e33ac4d5d3ace255972423a7252/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 93896522,
+    "link": "https://www.deezer.com/artist/93896522",
+    "fans": 539
+  },
+  {
+    "query": "КУОК",
+    "name": "Куок",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/6c7fb91cc11daa3ac0c1528c65a0606e/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 53621312,
+    "link": "https://www.deezer.com/artist/53621312",
+    "fans": 1682
+  },
+  {
+    "query": "BATO",
+    "name": "Bato",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/c0986cf86baa32948dd43985859990de/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 115901092,
+    "link": "https://www.deezer.com/artist/115901092",
+    "fans": 275
+  },
+  {
+    "query": "КлоуКома",
+    "name": "КлоуКома",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/e97ede6cc8cce8357f47afae44290ed5/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 51959672,
+    "link": "https://www.deezer.com/artist/51959672",
+    "fans": 215
+  },
+  {
+    "query": "ATL",
+    "name": "ATL",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/3b9b8592a0d9dac6532a28cc9cc87fbc/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 7582,
+    "link": "https://www.deezer.com/artist/7582",
+    "fans": 27334
+  },
+  {
+    "query": "Mnogoznaal",
+    "name": "Mnogoznaal",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/312ced152203b4f18bd627b28bd1cc5e/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 10591361,
+    "link": "https://www.deezer.com/artist/10591361",
+    "fans": 21576
+  },
+  {
+    "query": "Хаски",
+    "name": "Хаски",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/9f72b7d49c9f31019d22ae94773065f8/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 6363110,
+    "link": "https://www.deezer.com/artist/6363110",
+    "fans": 38796
+  },
+  {
+    "query": "Horus",
+    "name": "Horus",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/95f5b90dec7d82c17b0cffd7c1d6acc3/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 94843252,
+    "link": "https://www.deezer.com/artist/94843252",
+    "fans": 4749
+  },
+  {
+    "query": "JEEMBO",
+    "name": "JEEMBO",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/5738156cd45bafebe446af2d77cee12f/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 9653012,
+    "link": "https://www.deezer.com/artist/9653012",
+    "fans": 19859
+  },
+  {
+    "query": "BOOKER",
+    "name": "Booker",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/737c67f4ce55b7133bfd29bf6bc221fc/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 4448623,
+    "link": "https://www.deezer.com/artist/4448623",
+    "fans": 2409
+  },
+  {
+    "query": "2hug",
+    "name": "2hug",
+    "picture": "https://cdn-images.dzcdn.net/images/artist/217f52060ab7c923b27006ba03b005c8/1000x1000-000000-80-0-0.jpg",
+    "deezer_id": 227724435,
+    "link": "https://www.deezer.com/artist/227724435",
+    "fans": 275
+  }
+]

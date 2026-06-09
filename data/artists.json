@@ -40,14 +40,6 @@
     "fans": 215
   },
   {
-    "query": "ATL",
-    "name": "ATL",
-    "picture": "https://cdn-images.dzcdn.net/images/artist/3b9b8592a0d9dac6532a28cc9cc87fbc/1000x1000-000000-80-0-0.jpg",
-    "deezer_id": 7582,
-    "link": "https://www.deezer.com/artist/7582",
-    "fans": 27334
-  },
-  {
     "query": "Mnogoznaal",
     "name": "Mnogoznaal",
     "picture": "https://cdn-images.dzcdn.net/images/artist/312ced152203b4f18bd627b28bd1cc5e/1000x1000-000000-80-0-0.jpg",
@@ -62,14 +54,6 @@
     "deezer_id": 6363110,
     "link": "https://www.deezer.com/artist/6363110",
     "fans": 38796
-  },
-  {
-    "query": "Horus",
-    "name": "Horus",
-    "picture": "https://cdn-images.dzcdn.net/images/artist/95f5b90dec7d82c17b0cffd7c1d6acc3/1000x1000-000000-80-0-0.jpg",
-    "deezer_id": 94843252,
-    "link": "https://www.deezer.com/artist/94843252",
-    "fans": 4749
   },
   {
     "query": "JEEMBO",
